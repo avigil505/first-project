@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  color: MyString
+  name: MyString
+  num_doors: 1
+  year: 1
+  user_id: 
+
+two:
+  brand: MyString
+  color: MyString
+  name: MyString
+  num_doors: 1
+  year: 1
+  user_id: 
